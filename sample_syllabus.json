@@ -1,0 +1,94 @@
+[
+  {
+    "class": 5,
+    "subject": "Science",
+    "chapters": [
+      {
+        "name": "Nutrition in Plants",
+        "topics": [
+          "Photosynthesis",
+          "Autotrophic Nutrition",
+          "Heterotrophic Nutrition",
+          "Saprotropic Organisms",
+          "Soil Nutrient Replenishment"
+        ]
+      },
+      {
+        "name": "Fibre to Fabric",
+        "topics": [
+          "Natural Fibres",
+          "Synthetic Fibres",
+          "Cotton Ginning",
+          "Spinning Yarn",
+          "Weaving and Knitting"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 5,
+    "subject": "Mathematics",
+    "chapters": [
+      {
+        "name": "Knowing Our Numbers",
+        "topics": [
+          "Comparing Numbers",
+          "Large Numbers in Practice",
+          "Estimation",
+          "Using Brackets",
+          "Roman Numerals"
+        ]
+      },
+      {
+        "name": "Whole Numbers",
+        "topics": [
+          "Predecessor and Successor",
+          "The Number Line",
+          "Properties of Whole Numbers",
+          "Patterns in Whole Numbers"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "subject": "Science",
+    "chapters": [
+      {
+        "name": "Food: Where Does It Come From?",
+        "topics": [
+          "Food Variety",
+          "Food Materials and Sources",
+          "Plant Parts and Animal Products as Food",
+          "What Do Animals Eat?"
+        ]
+      },
+      {
+        "name": "Components of Food",
+        "topics": [
+          "What Do Different Food Items Contain?",
+          "Tests for Starch, Protein, and Fats",
+          "What Do Various Nutrients Do For Our Body?",
+          "Balanced Diet",
+          "Deficiency Diseases"
+        ]
+      }
+    ]
+  },
+  {
+    "class": 7,
+    "subject": "Science",
+    "chapters": [
+      {
+        "name": "Heat",
+        "topics": [
+          "Hot and Cold",
+          "Measuring Temperature",
+          "Laboratory Thermometer",
+          "Transfer of Heat",
+          "Kinds of Clothes We Wear in Summer and Winter"
+        ]
+      }
+    ]
+  }
+]
