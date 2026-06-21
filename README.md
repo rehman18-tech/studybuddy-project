@@ -8,7 +8,7 @@ Featuring visual, gamified mechanics inspired by **Duolingo** and **Khan Academy
 
 ## 🚀 Key Features
 
-1. **Student Profiles**: Dynamic sign-up logging the student's Name, Class/Grade (1 to 10), Board (CBSE, ICSE, State Board), and School Type.
+1. **Student Profiles**: Dynamic sign-up logging the student's Name, Class/Grade (6 to 10), Board (CBSE, ICSE, State Board), and School Type.
 2. **Today's Quest Planner**: Dynamically generates difficulty-appropriate daily checklists customized to the student's grade level.
 3. **Duolingo Course Path Map**: Visual, winding zig-zag course pathway nodes. Clicking an unlocked chapter lets students challenge standard quizzes!
 4. **Motivational Streak Flames**: A daily streak counter showing an animated fire flame, celebrating consistent study habits.
