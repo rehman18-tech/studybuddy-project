@@ -1,6 +1,6 @@
 # 🦉 StudyBuddy: Full-Stack Gamified Educational Web App
 
-StudyBuddy is a modern, responsive educational web application designed for students from Class 1 to Class 10 to develop powerful, consistent daily study habits. 
+StudyBuddy is a modern, responsive educational web application designed for students from Class 6 to Class 10 to develop powerful, consistent daily study habits. 
 
 Featuring visual, gamified mechanics inspired by **Duolingo** and **Khan Academy**, the application engages students using 3D button clicks, daily streak flame trackers, study quests, interactive multiple-choice quizzes, a secure Parents' portal, and **Buddy the Owl**—a responsive AI Tutor mascot!
 
